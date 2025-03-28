@@ -10,3 +10,5 @@ print("Como as ondas que vêm e vão no mar.")
 
 print("E no silêncio que embala o dia,")
 print("Renasce a alma em nova poesia. 🌿✨")
+
+# linha extra
